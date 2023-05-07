@@ -37,3 +37,11 @@ Feel free to explore and modify the code to experiment with different classifier
 ### Conclusion
 - This project demonstrates the application of traditional classifiers (Decision Tree, KNN, and Random Forest) for predicting heart disease. 
 - The README.md file provides an overview of the project structure, dataset, classifiers used, and instructions for usage.
+
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/VenkatRajendraGuntupalli/TraditionalClassifiers.git
+```
