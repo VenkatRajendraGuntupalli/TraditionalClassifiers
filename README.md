@@ -1,9 +1,8 @@
 
-# Assignment 4 - Traditional Machine Learning Classification
+# Traditional Machine Learning Classification
 This project implements three traditional classifiers - Decision Tree Classifier, K-Nearest Neighbors (KNN) Classifier, and Random Forest Classifier. These classifiers are applied to a heart disease dataset to predict the presence or absence of heart disease.
 
-#### Author: Venkat Rajendra Guntupalli(Student Id: 101744701)
-#### Contact Info(email):  guntupalliv1@udayton.edu 
+#### Author: Mr.Guntupalli
 
 
 ### Dataset
